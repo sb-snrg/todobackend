@@ -1,4 +1,4 @@
-FROM sb-snrg/todobackend-base:latest
+FROM meittemarc/todobackend-base:latest
 MAINTAINER Meitte Marc <meittemarc@gmail.com>
 
 # Install dev/build dependencies
