@@ -1,4 +1,4 @@
-FROM meittemarc/todobackend-base:latest
+FROM sb-snrg/todobackend-base:latest
 MAINTAINER meittemarc <meittemarc@gmail.com>
 
 # Copy application artifacts

@@ -1,6 +1,6 @@
 # Project variables
 PROJECT_NAME ?= todobackend
-ORG_NAME ?= meittemarc
+ORG_NAME ?= sb-snrg
 REPO_NAME ?= todobackend
 
 # Filenames
